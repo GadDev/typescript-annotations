@@ -2,8 +2,7 @@
 
 ## typescript compiler
 
-```npm install -g typescript ts-node
-```
+`npm install -g typescript ts-node`
 
 One time setup
 
